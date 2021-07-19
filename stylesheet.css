@@ -244,7 +244,7 @@ header {
     		right: 20px;
     		width: 40px;
     		height: 40px;
-    		background: #7c6ea7 url(img/menu.png);
+    		background: #7c6ea7 url(menu.png);
     		background-size: 30px;
     		background-repeat: no-repeat;
     		background-position: center;
@@ -253,7 +253,7 @@ header {
     		border-radius: 2px;
     	}
     	.toggle.active {
-			 background: #7c6ea7 url(img/close.png);
+			 background: #7c6ea7 url(close.png);
     		background-size: 25px;
     		background-repeat: no-repeat;
     		background-position: center;
